@@ -9,4 +9,7 @@ int main() {
 	cout << "Masukkan nilai : ";
 	cin >> nilai;
 	
+	if (nilai > 0)
+		cout << " nilai positif";
+		else if (nilai < 0)
 }
