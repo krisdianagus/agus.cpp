@@ -17,4 +17,8 @@ int main (){
 	else if (tinggi/2.5 <= berat <= tinggi/2.3) {
 		cout << "Hasil : Normal" << endl;
 	}
+	else if (tinggi/2.3 c berat) {
+		cout << "hasil : Gemuk" << endl;
+	}
+
 }
