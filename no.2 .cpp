@@ -1,6 +1,4 @@
-#inclide <iostream>
-#include <stdio.h>
-#include <conio.H>
+#include <iostream>
 using namespase std;
 
 int main () {
