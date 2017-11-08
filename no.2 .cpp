@@ -22,6 +22,6 @@ if (bidang == 'p' || bidang == 'p') {
 	}
 	
 	else{
-		cout<<" Maaf. anda salah memencet pilihan"<<endl;
+		cout<<" Maaf. anda salah mengklik pilihan"<<endl;
 	}
 }
